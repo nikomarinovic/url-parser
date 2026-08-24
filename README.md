@@ -8,10 +8,6 @@
   A powerful Python-based URL parsing, analysis, normalization, and security inspection toolkit for developers and security researchers.
 </p>
 
-<p align="center">
-  <a href="https://github.com/nikomarinovic/url-parser">https://github.com/nikomarinovic/url-parser</a>
-</p>
-
 ---
 
 ## What is URL Parser?
